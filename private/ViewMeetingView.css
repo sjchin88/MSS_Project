@@ -1,0 +1,26 @@
+.week {
+    display: grid;
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+    position:fixed;
+}
+
+.day {
+    display: inline-grid;
+}
+
+.time {
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 2px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+input {
+    margin: 0em;
+}

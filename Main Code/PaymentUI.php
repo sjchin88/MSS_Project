@@ -88,7 +88,7 @@
     
 	<h1>This is the Payment  info Page </h1>
 	<h2>Here is your current card information:</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	
 		<h3> Card Owner: <?= htmlspecialchars($credit_card->cardowner)?></h3>
 		<h3> Card Number: <?= htmlspecialchars(mask_credit_card($credit_card->cardnumber))?></h3>

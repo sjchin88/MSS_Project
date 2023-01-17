@@ -41,7 +41,7 @@
 </head>
 <body style="font-family: verdana;">
     <h1>Welcome to the Meeting Scheduling System! Please login to access our features.</h1>
-    <img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+    <img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<form method="post">
 		<div><?php
 			if(isset($Error) && $Error != ""){
@@ -69,7 +69,7 @@
         <div>
 			<label>Don't have an account? Register here:
 		</div>
-		<a href="https://msst4.000webhostapp.com/Registration.php" class="BUTTON">Register</a>
+		<a href="Registration.php" class="BUTTON">Register</a>
 			
 	
 	</form>

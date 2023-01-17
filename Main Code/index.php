@@ -57,14 +57,14 @@
 		<?php endif;?>
 	</div>
 	<h2>Our features are listed below.</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<form>
-    	<a href="https://msst4.000webhostapp.com/CreateMeetingView.php" class="BUTTON">Create A Meeting</a>
-    	<a href="https://msst4.000webhostapp.com/ViewMeetingView.php" class="BUTTON">View Weekly Meetings</a>
-    	<a href="https://msst4.000webhostapp.com/ProfileUI.php" class="BUTTON">View/Edit Profile</a>
-    	<a href="https://msst4.000webhostapp.com/EditParticipantsView.php" class="BUTTON">Edit Participants</a>
-    	<a href="https://msst4.000webhostapp.com/PaymentUI.php" class="BUTTON">Payment Information</a>
-    	<a href="https://msst4.000webhostapp.com/CreateComplaintUI.php" class="BUTTON">Create A Complaint</a>
+    	<a href="CreateMeetingView.php" class="BUTTON">Create A Meeting</a>
+    	<a href="ViewMeetingView.php" class="BUTTON">View Weekly Meetings</a>
+    	<a href="ProfileUI.php" class="BUTTON">View/Edit Profile</a>
+    	<a href="EditParticipantsView.php" class="BUTTON">Edit Participants</a>
+    	<a href="PaymentUI.php" class="BUTTON">Payment Information</a>
+    	<a href="CreateComplaintUI.php" class="BUTTON">Create A Complaint</a>
     	
 	</form>
 	<form method = "post">

@@ -60,7 +60,7 @@
 		<?php endif;?>
 	</div>
     <h2>Create a New Meeting</h2>
-    <img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+    <img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 
     <form method="post" class="information">
         <div>

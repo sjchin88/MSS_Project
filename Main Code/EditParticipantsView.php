@@ -60,7 +60,7 @@
 	</div>
   <h2>This is the Edit Participants page.</h2>
   
-  <img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+  <img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
   <div class="participantForm">
     <form id="editParticipantsForm" method="post">
         <h4>Add/Remove Participants</h4>

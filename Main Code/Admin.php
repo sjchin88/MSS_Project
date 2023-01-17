@@ -80,14 +80,14 @@
 
 	</div>
 	<h2>Our features are listed below.</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<form>
-	<a href="https://msst4.000webhostapp.com/ViewMeetingView.php" class="BUTTON">View Meetings</a>
-	<a href="https://msst4.000webhostapp.com/ProfileUI.php" class="BUTTON">View/Edit Profile</a>
-	<a href="https://msst4.000webhostapp.com/UpdateUserProfileUI.php" class="BUTTON">Update Client Profile</a>
- 	<a href="https://msst4.000webhostapp.com/RoomUI.php" class="BUTTON">Update Meeting Rooms</a>
-	<a href="https://msst4.000webhostapp.com/ViewComplaintUI.php" class="BUTTON">View Complaints</a>
-	<a href="https://msst4.000webhostapp.com/AdminRegistration.php" class="BUTTON">Create Another Admin Account</a>	
+	<a href="ViewMeetingView.php" class="BUTTON">View Meetings</a>
+	<a href="ProfileUI.php" class="BUTTON">View/Edit Profile</a>
+	<a href="UpdateUserProfileUI.php" class="BUTTON">Update Client Profile</a>
+ 	<a href="RoomUI.php" class="BUTTON">Update Meeting Rooms</a>
+	<a href="ViewComplaintUI.php" class="BUTTON">View Complaints</a>
+	<a href="AdminRegistration.php" class="BUTTON">Create Another Admin Account</a>	
 	</form>
 	<form method = "post">
 		<!CSRF Token>

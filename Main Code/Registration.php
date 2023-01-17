@@ -56,7 +56,7 @@
 <body style="font-family: verdana;">
 	<h1>Welcome to the Meeting Scheduling System!</h1>
 	<h2>Please create an account to learn more about our features and access them.</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<form method="post">
 		<div><?php
 			if(isset($Error) && $Error != ""){
@@ -85,7 +85,7 @@
         <div>
 			<label>Already have an account? Login here:
 		</div>
-		<a href="https://msst4.000webhostapp.com/Login.php" id="BUTTON">Login</a>	
+		<a href="Login.php" id="BUTTON">Login</a>	
 	    
 	</form>
     <div style="text-align: center"> The password need to consist at least 1 uppercase, 1 lower case and 1 numeric character with total length of more than 8</div>

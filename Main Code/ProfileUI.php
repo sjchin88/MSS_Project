@@ -84,7 +84,7 @@
 
 	<h1>This is the Profile Page</h1>
 	<h2>Here is your current account information:</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<h3> Full Name: <?= htmlspecialchars($profile->fullname)?></h3>
 	<h3> Contact: <?= htmlspecialchars($profile->contact)?></h3>
 	<h3> Job title: <?= htmlspecialchars($profile->jobtitle)?></h3>

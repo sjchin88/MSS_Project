@@ -6,10 +6,11 @@
 	*/
 	
 	define('DB_HOST', 'localhost');
-	define('DB_USER', 'id16988047_t4admin');
-	define('DB_PASS', 'DZj04lHp%?lP2vCY');
-	define('DB_NAME', 'id16988047_msst4');
-
+	define('DB_USER', 'id20160790_mssadmin');
+	define('DB_PASS', '?N%<G2o$_xc3@HLX');
+	define('DB_NAME', 'id20160790_mssdb');
+	define('WEB_URL', 'https://meetingschedulingsystem.000webhostapp.com/');
+	
 	if(!$connection = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME)){
 		die("Failed to connect");
 	}

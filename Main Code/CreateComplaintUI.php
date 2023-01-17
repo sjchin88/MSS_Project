@@ -61,7 +61,7 @@
 	</div>
 
 	<h2>This is the Create Complaint Page</h2>
-	<img src="https://msst4.000webhostapp.com/logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
+	<img src="logo_mss.png" alt="MSS Logo" title="MSS Logo"/>
 	<form method="post" class="information">
 		<div><?php
 			if(isset($Error) && $Error != ""){
